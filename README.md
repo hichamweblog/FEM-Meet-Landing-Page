@@ -1,6 +1,6 @@
-# Frontend Mentor - Testimonials Grid Section Solution
+# Frontend Mentor - Meet Landing Page Solution
 
-This is a solution to the [Meet- landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR).
+This is a solution to the [Meet landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR).
 
 ## Table of Contents
 
@@ -28,8 +28,8 @@ The Meet Landing Page project is a simple, responsive web page designed to showc
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-html-css-mrLp96tUce)
-- [Live Site URL](https://dz-testimonials-grid-section.netlify.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/the-meet-landing-page-project-responsive-web-page-JeiOC7Fa7K)
+- [Live Site URL](https://dz-meet-landing-page.netlify.app/)
 
 ### Built With
 
